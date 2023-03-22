@@ -15,4 +15,4 @@ The applicaton runs the same on windows and linx.
 
 Tested with the .net 7.0 SDK installed on linux and the templates installed
 
-`dotnetnewinstall"Avalonia.Templates"`
+`dotnet new install "Avalonia.Templates"`
